@@ -1,0 +1,6 @@
+{
+  "importSorter.importStringConfiguration.quoteMark": "double",
+  "importSorter.importStringConfiguration.tabType": "space",
+  "importSorter.importStringConfiguration.tabSize": 2,
+  "terminal.integrated.shellIntegration.history": 0,
+}

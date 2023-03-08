@@ -1,0 +1,11 @@
+# directories
+node_modules/
+build/
+database/
+logs/
+scripts/
+
+# files
+tsconfig.tsbuildinfo
+package-lock.json
+.env

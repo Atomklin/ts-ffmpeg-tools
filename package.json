@@ -1,0 +1,24 @@
+{
+  "name": "ffmpeg-scripts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "build/main.js",
+  "scripts": {
+    "start": "tsc && node ."
+  },
+  "author": "atomklin",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "@types/prompts": "^2.4.2",
+    "@typescript-eslint/eslint-plugin": "^5.54.1",
+    "@typescript-eslint/parser": "^5.54.1",
+    "eslint": "^8.35.0",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffprobe-installer/ffprobe": "^2.0.0",
+    "prompts": "^2.4.2"
+  }
+}
