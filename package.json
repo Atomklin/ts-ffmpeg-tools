@@ -7,7 +7,7 @@
     "start": "tsc && node ."
   },
   "author": "atomklin",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.14.6",
     "@types/prompts": "^2.4.2",
